@@ -1,0 +1,13 @@
+
+ <!DOCTYPE html>
+<HTML>
+  <head>
+    <title>Carlos Armando Cruz Castro</title>
+  </head>
+  <body>
+    <div id="una capa">
+      <h1>Hola UP Chiapas!</h1>
+      <p>Esta es mi segundaaaa practica para subir un archivo.</p>
+    </div>
+  </body>  
+</HTML>
